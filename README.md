@@ -1,6 +1,6 @@
 -👋 Hi, I’m @LukkasVN
 
--👀 I’m interested in videogame development, programming and english.
+-👀 I’m interested in videogame development and  programming.
 
 -📚 I’m currently on my second year in a professional training of Mult-Platform App Development.
 
