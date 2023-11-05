@@ -2,9 +2,9 @@
 
 -👀 I’m interested in videogame development and programming.
 
--📚 I’m currently on my second year in a professional training of Mult-Platform App Development.
+-📚 I’m currently on my studying a videogame and virtual reality development course.
 
--🌱 At the moment the only programming language that I'm learning is Java and C# because they are the ones that I have been using during my studies and working experience, but I'm looking forward to learn Unity/Unreal in the future and maybe C++.
+-🌱 Currently experienced in Java, C# (Worked a bit using .Net framework too) and C++ basics learned just messing around with Unreal. I mainly use and have the most knowledge of Unity.
 
 -💻 This account will contain my personal and class projects/activities.
 
