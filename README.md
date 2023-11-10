@@ -4,8 +4,9 @@
 
 -📚 I’m currently studying a videogame and virtual reality development course.
 
--🌱 My main languages are Java, C# (Mainly using it in unity but I worked a bit using .Net framework in blazor projects) and very basic C++ that I learned just messing around with Unreal. 
-    I mainly use and have the most knowledge of Unity.
+-📚 I mainly use and have the most knowledge of Unity.
+
+-🌱 My main languages are Java, C# (Mainly using it in unity but I worked a bit using .Net framework in blazor projects) and very basic C++ that I learned just messing around with Unreal.
 
 -💻 This account currently contains my personal and class projects/activities.
 
