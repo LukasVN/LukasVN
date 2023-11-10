@@ -2,11 +2,12 @@
 
 -👀 I’m interested in videogame development and programming.
 
--📚 I’m currently on my studying a videogame and virtual reality development course.
+-📚 I’m currently studying a videogame and virtual reality development course.
 
--🌱 Currently experienced in Java, C# (Worked a bit using .Net framework too) and C++ basics learned just messing around with Unreal. I mainly use and have the most knowledge of Unity.
+-🌱 My main languages are Java, C# (Mainly using it in unity but I worked a bit using .Net framework in blazor projects) and very basic C++ that I learned just messing around with Unreal. 
+    I mainly use and have the most knowledge of Unity.
 
--💻 This account will contain my personal and class projects/activities.
+-💻 This account currently contains my personal and class projects/activities.
 
 -📫 How to reach me --> lucasvnbusiness@gmail.com
 <!---
