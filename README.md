@@ -10,6 +10,8 @@
 
 -💻 This account currently contains my personal and class projects/activities.
 
+- My Itch.io profile (Games): https://lukkasvn.itch.io
+
 -📫 How to reach me --> lucasvnbusiness@gmail.com
 <!---
 LukasVN/LukasVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
