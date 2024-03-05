@@ -4,13 +4,13 @@
 
 -📚 I’m currently studying a videogame and virtual reality development course.
 
--📚 I mainly use and have the most knowledge of Unity.
+-📚 I mainly use and have the most knowledge of the Unity Engine.
 
--🌱 My main languages are C# (Mainly using it in unity but I worked a bit using .Net framework in blazor projects), Java and very basic C++ that I learned just messing around with Unreal.
+-🌱 My main languages are C#, Java and very basic C++ that I learned just messing around with Unreal.
 
--💻 This account currently contains my personal and class projects/activities.
+-💻 This account currently contains my personal and class projects/activities/collaborations.
 
-- My Itch.io profile (Games): https://lukkasvn.itch.io
+- My Itch.io profile (Games & Prototypes): https://lukkasvn.itch.io
 
 -📫 How to reach me --> lucasvnbusiness@gmail.com
 <!---
