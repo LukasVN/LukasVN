@@ -10,7 +10,7 @@
 
 -💻 This account currently contains my personal and class projects/activities/collaborations.
 
-- My Itch.io profile (Games & Prototypes): https://lukkasvn.itch.io
+- My Itch.io profile (Jam Games, Games and Prototypes): https://lukkasvn.itch.io
 
 -📫 How to reach me --> lucasvnbusiness@gmail.com
 <!---
