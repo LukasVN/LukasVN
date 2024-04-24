@@ -10,11 +10,7 @@
 
 -💻 This account currently contains my personal and class projects/activities/collaborations.
 
-- My Itch.io profile (Jam Games, Games and Prototypes): https://lukkasvn.itch.io
-
-- My Unity Play profile (Projects made for learning purposes): https://play.unity.com/u/LukkasVN
-
--📫 How to reach me --> lucasvnbusiness@gmail.com
+-🌎 My Socials: https://linktr.ee/LukkasVN
 <!---
 LukasVN/LukasVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
