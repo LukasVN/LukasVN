@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in videogame development and programming.
 
-- 📚 I mainly use and have the most knowledge of the Unity Engine.
+- 📚 I mainly use and have the most knowledge of the Unity Engine and C#/.Net.
 
 - 🌱 I´m constantly learning new things about game development (mostly programming) and currently gaining experience from various personal projects.
 
