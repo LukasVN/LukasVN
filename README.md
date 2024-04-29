@@ -61,7 +61,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasvn&show_icons=true&locale=en&layout=compact" alt="lukasvn" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasvn&" alt="lukasvn" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasvn&theme=dark" alt="lukasvn" /></p>
 
 <!---
 LukasVN/LukasVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
