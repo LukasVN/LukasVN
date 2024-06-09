@@ -8,7 +8,7 @@
 
 
 <br>
-- 📚 I’m currently studying a videogame and virtual reality development course while developing my first "official" game.
+- 📚 Just completed a videogame and virtual reality development course and currently developing my first "official" game while seeking a job in the game industry.
 
 - 👀 I’m interested in videogame development and programming.
 
