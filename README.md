@@ -3,7 +3,9 @@
 
 [![Lucas Varela Negro](https://github.com/user-attachments/assets/eee31baf-d57d-402a-92ac-309757f17ef2)](https://lukkasvn.itch.io)
 
+<a href="https://github.com/LukasVN" target="_blank" rel="noreferrer">
 <img align="right" alt="Making Games" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"/>
+</a>
 
 - 📚 Completed a videogame and virtual reality development course, currently focusing on personal projects and participating in Gamejams while seeking a job in the game industry.
 
