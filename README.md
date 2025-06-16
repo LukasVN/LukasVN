@@ -7,13 +7,13 @@
 <img align="right" alt="Making Games" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"/>
 </a>
 
-- 📚 Completed a specialized course in Video Game and Virtual Reality Development. Currently working on personal projects, releasing a demo on Steam, and actively participating in Game Jams while seeking a junior position in the game industry.
+- 📚 Completed a specialized course in Video Game and Virtual Reality Development.
 
 - 👀 Interested in game development and programming.
 
 - 💻 Most experienced with Unity Engine and C#/.NET, but also learning Unreal Engine with C++.
 
-- 🌱 Continuously expanding my knowledge in game development (mainly programming) through self-driven projects and practical experimentation.
+- 🌱 Currently working on personal projects, releasing a demo on Steam, and actively participating in Game Jams while seeking a junior position in the game industry.
 
 - 📫 My Socials: https://linktr.ee/LukkasVN
 <br>
@@ -37,6 +37,21 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
+  
+<!-- Unreal Engine -->
+<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/443515/brand-unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- Aseprite -->
+<a href="https://www.aseprite.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/329985/aseprite.svg" alt="Aseprite" width="40" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- C++ -->
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
