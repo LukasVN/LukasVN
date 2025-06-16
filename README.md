@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LukkasVN</h1>
-<h3 align="center">Everlearning Game Developer and Game enjoyer</h3>
+<h3 align="center">Everlearning Game Programmer</h3>
 
-[![Lucas Varela Negro](https://github.com/user-attachments/assets/eee31baf-d57d-402a-92ac-309757f17ef2)](https://lukkasvn.itch.io)
+<!-- [![Lucas Varela Negro](https://github.com/user-attachments/assets/eee31baf-d57d-402a-92ac-309757f17ef2)](https://lukkasvn.itch.io) -->
 
 <a href="https://github.com/LukasVN" target="_blank" rel="noreferrer">
 <img align="right" alt="Making Games" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"/>
