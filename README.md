@@ -7,15 +7,12 @@
 <img align="right" alt="Making Games" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"/>
 </a>
 
-- 📚 Completed a specialized course in Video Game and Virtual Reality Development.
-
-- 👀 Interested in game development and programming.
-
-- 💻 Most experienced with Unity Engine and C#/.NET, but also learning Unreal Engine with C++.
-
-- 🌱 Currently working on personal projects, releasing a demo on Steam, and actively participating in Game Jams while seeking a junior position in the game industry.
-
-- 📫 My Socials: https://linktr.ee/LukkasVN
+- 📚 Completed a specialized course in Video Game and Virtual Reality Development.  
+- 👀 Passionate about game development and programming.  
+- 💻 Experienced primarily with Unity Engine and C#/.NET, currently expanding skills in Unreal Engine with C++.  
+- 🌱 Actively developing personal projects, preparing to a small game on Steam, and regularly participating in Game Jams.  
+- 🎯 Seeking a role in the game industry to grow and contribute.  
+- 📫 Find all my socials here: [https://linktr.ee/LukkasVN](https://linktr.ee/LukkasVN)
 <br>
 
 <br>
