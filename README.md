@@ -7,7 +7,7 @@
 <img align="right" alt="Making Games" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"/>
 </a>
 
-- Completed a specialized course in Video Game and Virtual Reality Development.  
+- Video Game and Virtual Reality Development specialist.  
 - Passionate about game development and programming.  
 - Experienced primarily with Unity Engine and C#/.NET, currently expanding skills in Unreal Engine with C++.  
 - Actively developing personal projects, preparing to a small game on Steam, and regularly participating in Game Jams.  
