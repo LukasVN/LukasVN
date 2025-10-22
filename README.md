@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LukkasVN</h1>
-<h3 align="center">Everlearning Game Programmer</h3>
+<h3 align="center">Everlearning Gameplay Programmer</h3>
 
 <!-- [![Lucas Varela Negro](https://github.com/user-attachments/assets/eee31baf-d57d-402a-92ac-309757f17ef2)](https://lukkasvn.itch.io) -->
 
@@ -10,7 +10,7 @@
 - Video Game and Virtual Reality Development specialist.  
 - Passionate about game development and programming.  
 - Experienced primarily with Unity Engine and C#/.NET, currently expanding skills in Unreal Engine with C++.  
-- Actively developing personal projects, preparing to a small game on Steam, and regularly participating in Game Jams.  
+- Actively developing personal projects, learning new gamedev-related technologies and regularly participating in Game Jams.  
 - Seeking a role in the game industry to grow and contribute.  
 - Find all my socials here: [https://linktr.ee/LukkasVN](https://linktr.ee/LukkasVN)
 <br>
