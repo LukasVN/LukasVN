@@ -3,7 +3,7 @@
 
 <!-- [![Lucas Varela Negro](https://github.com/user-attachments/assets/eee31baf-d57d-402a-92ac-309757f17ef2)](https://lukkasvn.itch.io) -->
 
-<a href="https://github.com/LukasVN" target="_blank" rel="noreferrer">
+<a href="https://github.com/LukkasVN" target="_blank" rel="noreferrer">
 <img align="right" alt="Making Games" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"/>
 </a>
 
@@ -68,11 +68,11 @@
 <br>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasvn&label=Profile%20views&color=0e75b6&style=flat" alt="lukasvn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukkasvn&label=Profile%20views&color=0e75b6&style=flat" alt="lukkasvn" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasvn&show_icons=true&locale=en&layout=compact" alt="lukasvn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukkasvn&show_icons=true&locale=en&layout=compact" alt="lukkasvn" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasvn&theme=dark" alt="lukasvn" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lukkasvn&theme=dark" alt="lukkasvn" /></p>
 
 <!---
 --->
